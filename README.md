@@ -3,14 +3,14 @@
 Este projeto em Python automatiza a conversão de faturas no formato Excel (.xlsx) em arquivos PDF formatados.  
 Ele lê os dados das faturas, organiza em uma tabela no PDF e adiciona informações como número da fatura, data e total.  
 
-🛠️ Tecnologias Utilizadas
-
-Python
-Pandas — Leitura e manipulação de dados em Excel.
-FPDF — Criação de arquivos PDF.
-Glob — Busca de arquivos no sistema de diretórios.
-Pathlib — Manipulação de caminhos de arquivos.  
-
+🛠️ Tecnologias Utilizadas  
+  
+Python  
+Pandas — Leitura e manipulação de dados em Excel.  
+FPDF — Criação de arquivos PDF.  
+Glob — Busca de arquivos no sistema de diretórios.  
+Pathlib — Manipulação de caminhos de arquivos.   
+  
 🔧 Como Funciona  
   
 O script realiza os seguintes passos:  
