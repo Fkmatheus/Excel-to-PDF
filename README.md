@@ -5,11 +5,11 @@ Ele lê os dados das faturas, organiza em uma tabela no PDF e adiciona informaç
 
 🛠️ Tecnologias Utilizadas  
   
-Python  
-Pandas — Leitura e manipulação de dados em Excel.  
-FPDF — Criação de arquivos PDF.  
-Glob — Busca de arquivos no sistema de diretórios.  
-Pathlib — Manipulação de caminhos de arquivos.   
+🐍 Python  
+📊 Pandas — Leitura e manipulação de dados em Excel.  
+📄 FPDF — Criação de arquivos PDF.  
+📂 Glob — Busca de arquivos no sistema de diretórios.  
+📂 Pathlib — Manipulação de caminhos de arquivos.   
   
 🔧 Como Funciona  
   
